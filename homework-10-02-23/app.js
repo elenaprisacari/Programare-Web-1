@@ -6,6 +6,6 @@ if (age>=18) {
 alert("Welcome!");
 }
 else {
-alert("Sorry, you must be at least 18 years old to view this content...");
+alert("Sorry, you must be at least 18 years old to view this content.");
 
 }
