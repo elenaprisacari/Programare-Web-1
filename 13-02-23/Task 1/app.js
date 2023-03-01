@@ -31,6 +31,6 @@ switch (number) {
         alert( 'Nine' );
         break; 
         default:
-    alert  (number + ' is not a digit');}
+alert  (number + ' is not a digit');}
 
 
