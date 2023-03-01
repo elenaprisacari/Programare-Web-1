@@ -4,7 +4,7 @@ document.body.style.backgroundColor = "blue";
 
 // 3.1(a)
 
-const number1 = [1, 2, 3, 4, 5];
+const number = [1, 2, 3, 4, 5];
 const values = number;
 for (i = 0; i < values.length; i++) {
     console.log(values[i]);
